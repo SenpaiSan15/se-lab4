@@ -1,0 +1,2 @@
+SUCCESS  # Hajó generálása
+FAIL  # fallback szekunderre

@@ -1,0 +1,2 @@
+SUCCESS  # Hajó generálása
+SUCCESS  # primer tüzel

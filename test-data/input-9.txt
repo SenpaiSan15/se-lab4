@@ -1,0 +1,5 @@
+# Két torpedó, két lövés SINGLE módban
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+EXIT

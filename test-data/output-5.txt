@@ -1,0 +1,2 @@
+SUCCESS  # Hajó generálása
+SUCCESS  # legalább egy tüzel, itt mindkettő
