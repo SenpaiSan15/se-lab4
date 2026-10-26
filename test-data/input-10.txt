@@ -1,0 +1,5 @@
+# Test primary non-empty and empty states when wasPrimaryFiredLast is true and secondary is empty
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

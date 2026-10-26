@@ -1,0 +1,3 @@
+# Test failure in primary store (should not switch to secondary)
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE

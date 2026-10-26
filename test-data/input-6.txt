@@ -1,0 +1,3 @@
+# Test firing secondary when primary is empty and wasPrimaryFiredLast is false
+GT4500,0,0,10,0
+TORPEDO,SINGLE

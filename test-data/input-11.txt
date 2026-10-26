@@ -1,0 +1,3 @@
+# Test ALL mode when both stores are empty
+GT4500,0,0,0,0
+TORPEDO,ALL
