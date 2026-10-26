@@ -1,0 +1,4 @@
+# Test fallback when secondary is empty
+GT4500,10,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
